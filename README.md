@@ -25,10 +25,10 @@ To use Age Timer, follow these steps:
 ```
 
 'Pausing and Resetting'
-
+```
 Pause: Just like the flow of time and your age, you cannot pause the Age Stopwatch.
 Reset: To reset the Age Stopwatch, you will need to clear cookies.
-
+```
 
 ## Contributing to Age Stopwatch
 
