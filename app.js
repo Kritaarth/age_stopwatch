@@ -13,6 +13,11 @@ $(document).ready(function(){
         localStorage.dob = dob.getTime();
     };
 
+    function myFunction() {
+      var element = document.body;
+      element.classList.toggle("dark-mode");
+    }
+
     function load()
     {
         var dob;
