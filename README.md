@@ -20,7 +20,7 @@ To use Age Timer, follow these steps:
 ```
 1. Go to the website:
 ```
-   https://kritaarth.github.io/age_stopwatch/
+   * https://kritaarth.github.io/age_stopwatch/
 ```
 2. Upon entering the website, you will find a designated input field.
 3. Fill your age into the input field.
