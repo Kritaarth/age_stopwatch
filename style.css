@@ -108,3 +108,9 @@ footer {
   -webkit-flex-direction: row;
   -webkit-justify-content: center;
 }
+
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
