@@ -59,7 +59,7 @@ $(document).ready(function(){
     };
 
     function main() {
-        if (load() > 0)
+        if (load() = -1)
         {
             renderAgeLoop();
         } else {
