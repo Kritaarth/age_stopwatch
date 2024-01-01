@@ -2,8 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Kritaarth/age_stopwatch)
 ![GitHub contributors](https://img.shields.io/github/contributors/Kritaarth/age_stopwatch)
-![GitHub stars](https://img.shields.io/github/stars/Kritaarth/age_stopwatch?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Kritaarth/age_stopwatch?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Kritaarth/age_stopwatch)
+![GitHub forks](https://img.shields.io/github/forks/Kritaarth/age_stopwatch)
 
 Project name is `Age Stopwatch` that allows `everyone` to check their `realtime age`.
 
