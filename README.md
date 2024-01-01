@@ -18,9 +18,10 @@ Project name is `Age Stopwatch` that allows `everyone` to check their `realtime 
 To use Age Timer, follow these steps:
 
 ```
-1. Upon entering the website, you will find a designated input field.
-2. Fill your age into the input field.
-3. Press 'Enter' or click the 'Start' button.
+1. Go to the website: https://kritaarth.github.io/age_stopwatch/
+2. Upon entering the website, you will find a designated input field.
+3. Fill your age into the input field.
+4. Press 'Enter' or click the 'Start' button.
 ```
 
 Pausing and Resetting
