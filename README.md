@@ -21,10 +21,9 @@ To use Age Timer, follow these steps:
 1. Upon entering the website, you will find a designated input field.
 2. Fill your age into the input field.
 3. Press 'Enter' or click the 'Start' button.
-
 ```
 
-'Pausing and Resetting'
+Pausing and Resetting
 ```
 Pause: Just like the flow of time and your age, you cannot pause the Age Stopwatch.
 Reset: To reset the Age Stopwatch, you will need to clear cookies.
